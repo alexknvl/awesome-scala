@@ -11,6 +11,22 @@ https://github.com/akullpp/awesome-java
   - https://github.com/softwaremill/scala-clippy
   - https://github.com/square/leakcanary
   
+### Typeclass derivation
+  - https://github.com/manatki/derevo
+  - https://github.com/typelevel/kittens
+  - https://github.com/scalaz/scalaz-deriving
+  - https://github.com/propensive/magnolia
+  
+### Final tagless (and free)
+  - https://github.com/typelevel/cats-tagless
+  - https://github.com/lloydmeta/diesel
+  - https://github.com/frees-io/freestyle
+  - https://github.com/Thangiee/Freasy-Monad
+  
+### Recursion-schemes
+  - https://github.com/andyscott/droste
+  - https://github.com/slamdata/matryoshka
+  
 ### Hot-swapping
   - https://github.com/HotswapProjects/HotswapAgent
   - https://dcevm.github.io/
@@ -18,12 +34,6 @@ https://github.com/akullpp/awesome-java
 ### Static Analysis
   - https://github.com/colder/insane
   - https://github.com/spotbugs/spotbugs
-
-### Final tagless (and free)
-  - https://github.com/typelevel/cats-tagless
-  - https://github.com/lloydmeta/diesel
-  - https://github.com/frees-io/freestyle
-  - https://github.com/Thangiee/Freasy-Monad
   
 ### Constraint solvers
   - http://www.choco-solver.org/ (Java)
@@ -67,9 +77,6 @@ https://github.com/akullpp/awesome-java
 
 ### JVM
   - https://github.com/psuter/cafebabe
-
-### Recursion-schemes
-  - https://github.com/andyscott/droste
 
 ### Debugging
   - https://github.com/ensime/scala-debugger
