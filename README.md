@@ -2,7 +2,9 @@
 A curated list of awesome and *interesting* Scala libraries. Biased and subjective. Some of these projects **probably do not work** anymore as they are a few years old.
 
 Other lists:
+https://github.com/lauris/awesome-scala (this is a considerably larger list but it has a bias towards *business value*)
 https://github.com/akullpp/awesome-java
+https://github.com/uhub/awesome-scala
 
 ### Tools
   - http://ammonite.io/#Ammonite-REPL
