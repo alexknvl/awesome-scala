@@ -181,6 +181,7 @@ Other lists:
   * https://github.com/47deg/LambdaTest
 
 ### Lenses
+  * https://github.com/julien-truffaut/Monocle
   * https://github.com/adamw/quicklens
   * https://github.com/pathikrit/sauron
   * https://github.com/akisaarinen/rillit
@@ -191,6 +192,7 @@ Other lists:
   * https://github.com/jfkelley/argyle
 
 ### Refinement types
+  * https://github.com/fthomas/refined
   * https://github.com/fwbrasil/bond
 
 ### Plotting
@@ -210,3 +212,6 @@ Other lists:
   
 ### Packaging
   * https://github.com/sbt/sbt-onejar
+  * https://github.com/xerial/sbt-pack
+  * https://github.com/sbt/sbt-assembly
+  * https://github.com/sbt/sbt-proguard
