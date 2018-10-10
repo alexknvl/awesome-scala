@@ -13,6 +13,7 @@ Other lists:
   - https://github.com/tkawachi/sbt-doctest
   - https://github.com/softwaremill/scala-clippy
   - https://github.com/square/leakcanary
+  - https://github.com/rtimush/sbt-updates
   
 ### Typeclass derivation
   - https://github.com/manatki/derevo
@@ -25,10 +26,18 @@ Other lists:
   - https://github.com/lloydmeta/diesel
   - https://github.com/frees-io/freestyle
   - https://github.com/Thangiee/Freasy-Monad
+  - https://github.com/ISCPIF/freedsl
   
 ### Recursion-schemes
   - https://github.com/andyscott/droste
   - https://github.com/slamdata/matryoshka
+  
+### Packaging
+  * https://github.com/sbt/sbt-native-packager
+  * https://github.com/sbt/sbt-onejar
+  * https://github.com/xerial/sbt-pack
+  * https://github.com/sbt/sbt-assembly
+  * https://github.com/sbt/sbt-proguard
   
 ### Hot-swapping
   - https://github.com/HotswapProjects/HotswapAgent
@@ -76,6 +85,7 @@ Other lists:
   - https://github.com/srhea/scalaqlite
 
 ### CLI
+  - https://github.com/lihaoyi/fansi
   - https://github.com/ktoso/scala-rainbow
 
 ### JVM
@@ -111,14 +121,19 @@ Other lists:
   - https://github.com/NICTA/rng
 
 ### Parsing
+  * https://github.com/djspiewak/parseback
+  * https://github.com/sirthias/parboiled2
+  * https://github.com/lihaoyi/fastparse
+  * https://github.com/tpolecat/atto
+  * https://github.com/djspiewak/gll-combinators
+  * https://github.com/djspiewak/scala-bison
+  * https://github.com/scala/scala-parser-combinators
   * https://github.com/Eliah-Lakhin/papa-carlo
   * https://github.com/typelevel/paiges
   * https://github.com/nuttycom/xenomorph
   * https://github.com/rcoh/toyregex
-  * https://github.com/djspiewak/scala-bison
-  * https://github.com/djspiewak/gll-combinators
   * https://github.com/Imaginatio/REL
-  * https://github.com/djspiewak/derivative-combinators (https://github.com/djspiewak/parseback)
+  * https://github.com/djspiewak/derivative-combinators
 
 ### Data transformation
   * https://github.com/knutwalker/transducers-scala
@@ -130,6 +145,7 @@ Other lists:
   * https://github.com/arjanblokzijl/scala-conduits
 
 ### Configuration
+  * https://github.com/circe/circe
   * https://github.com/jcazevedo/moultingyaml
   
 ### Approximate search
@@ -202,16 +218,12 @@ Other lists:
 ### Macros
   * https://github.com/retronym/macrocosm 
 
-### Markdown
+### Documentation & Text processors
+  * https://github.com/lihaoyi/Scalatex
+  * https://github.com/tpolecat/tut
   * https://github.com/chenkelmann/actuarius
   * https://github.com/tristanjuricek/knockoff
   * https://github.com/planet42/Laika
 
 ### Financial
   * https://github.com/channingwalton/scala-contracts
-  
-### Packaging
-  * https://github.com/sbt/sbt-onejar
-  * https://github.com/xerial/sbt-pack
-  * https://github.com/sbt/sbt-assembly
-  * https://github.com/sbt/sbt-proguard
