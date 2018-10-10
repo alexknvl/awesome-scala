@@ -16,6 +16,7 @@ A curated list of awesome and *interesting* Scala libraries. Biased and subjecti
   - https://github.com/michel-slm/minikanren-scala
   - https://github.com/sonoisa/Prolog-in-Scala
   - https://github.com/ermine-language/ermine-scala-core
+  - https://github.com/rcano/sps - Scala's syntax expressed in Parboiled2 syntax
 
 ### Databases
   - https://github.com/beloglazov/couchdb-scala
@@ -45,6 +46,7 @@ A curated list of awesome and *interesting* Scala libraries. Biased and subjecti
   
 ### Graphs
   - https://github.com/Verizon/quiver
+  - https://github.com/rsimon/scala-force-layout
 
 ### Data-type visualization
   - https://github.com/stanch/reftree
@@ -84,6 +86,7 @@ A curated list of awesome and *interesting* Scala libraries. Biased and subjecti
   * https://github.com/rklaehn/radixtree
   * https://github.com/ummels/scala-prioritymap
   * https://github.com/djspiewak/scala-collections
+  * https://github.com/xuwei-k/nobox
 
 ### Data migration
   * https://github.com/scalalandio/chimney 
