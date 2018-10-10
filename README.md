@@ -1,5 +1,5 @@
 # Awesome-scala
-A curated list of awesome and *interesting* Scala libraries. Biased and subjective.
+A curated list of awesome and *interesting* Scala libraries. Biased and subjective. Some of these projects **probably do not work** anymore as they are a few years old.
 
 ### Static Analysis
   - https://github.com/colder/insane
