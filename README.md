@@ -1,5 +1,5 @@
 # Awesome-scala
-A curated list of awesome and *interesting* Scala libraries:
+A curated list of awesome and *interesting* Scala libraries. Biased and subjective.
 
 Final tagless:
   - https://github.com/typelevel/cats-tagless
