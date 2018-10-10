@@ -7,6 +7,9 @@ Final tagless:
 
 FFI:
   - https://github.com/shadaj/scalapy
+  
+Programming Languages:
+  - https://github.com/Mononofu/Scalisp
 
 Databases:
   - https://github.com/beloglazov/couchdb-scala
@@ -31,7 +34,7 @@ SMT:
 Graph rewriting:
   - https://github.com/stripe/dagon
 
-Data visualization:
+Data-type visualization:
   - https://github.com/stanch/reftree
   - https://github.com/gnieh/diffson
   - https://github.com/xdotai/diff
@@ -43,6 +46,12 @@ Parsing:
 
 Data transformation:
   * https://github.com/knutwalker/transducers-scala
+  
+Content addressing:
+  * https://github.com/pico-works/pico-hashids
+  
+Streaming:
+  * https://github.com/arjanblokzijl/scala-conduits
 
 Configuration:
   * https://github.com/jcazevedo/moultingyaml
@@ -75,6 +84,9 @@ Machine learning:
   * https://github.com/neysofu/tyche
   * https://github.com/jliszka/probability-monad
   * https://github.com/noelwelsh/pfennig
+  * https://github.com/anskarl/LoMRF
+  * https://github.com/trananh/word2vec-scala
+  * https://github.com/openmole/mgo
 
 Testing:
   * https://github.com/47deg/LambdaTest
