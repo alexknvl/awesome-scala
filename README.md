@@ -1,13 +1,34 @@
 # Awesome-scala
 A curated list of awesome and *interesting* Scala libraries. Biased and subjective. Some of these projects **probably do not work** anymore as they are a few years old.
 
+Other lists:
+https://github.com/akullpp/awesome-java
+
+### Tools
+  - http://ammonite.io/#Ammonite-REPL
+  - https://github.com/jrudolph/sbt-dependency-graph
+  - https://github.com/tkawachi/sbt-doctest
+  - https://github.com/softwaremill/scala-clippy
+  - https://github.com/square/leakcanary
+  
+### Hot-swapping
+  - https://github.com/HotswapProjects/HotswapAgent
+  - https://dcevm.github.io/
+
 ### Static Analysis
   - https://github.com/colder/insane
+  - https://github.com/spotbugs/spotbugs
 
-### Final tagless
+### Final tagless (and free)
   - https://github.com/typelevel/cats-tagless
   - https://github.com/lloydmeta/diesel
   - https://github.com/frees-io/freestyle
+  - https://github.com/Thangiee/Freasy-Monad
+  
+### Constraint solvers
+  - http://www.choco-solver.org/ (Java)
+  - https://github.com/radsz/jacop (Java)
+  - https://www.optaplanner.org/ (Java)
 
 ### FFI
   - https://github.com/shadaj/scalapy
@@ -55,7 +76,8 @@ A curated list of awesome and *interesting* Scala libraries. Biased and subjecti
   - https://github.com/bmc/classutil
   - https://github.com/adamw/scala-macro-debug
 
-### SMT
+### Theorem provers and SMT
+  - https://gitlab.com/aossie/Scavenger
   - https://github.com/epfl-lara/ScalaZ3
   - https://github.com/regb/scabolic
   - https://github.com/regb/scala-smtlib
@@ -171,6 +193,7 @@ A curated list of awesome and *interesting* Scala libraries. Biased and subjecti
 ### Markdown
   * https://github.com/chenkelmann/actuarius
   * https://github.com/tristanjuricek/knockoff
+  * https://github.com/planet42/Laika
 
 ### Financial
   * https://github.com/channingwalton/scala-contracts
