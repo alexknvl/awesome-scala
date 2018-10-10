@@ -7,9 +7,27 @@ A curated list of awesome and *interesting* Scala libraries. Biased and subjecti
 ### Final tagless
   - https://github.com/typelevel/cats-tagless
   - https://github.com/lloydmeta/diesel
+  - https://github.com/frees-io/freestyle
 
 ### FFI
   - https://github.com/shadaj/scalapy
+  
+### Gitlab
+  - https://github.com/timols/java-gitlab-api (Java)
+  - https://github.com/gmessner/gitlab4j-api (Java)
+  
+### Dependency injection
+  - https://github.com/adamw/macwire
+  
+### Logging
+  - https://github.com/lancewalton/treelog
+  - https://github.com/JohnReedLOL/scala-trace-debug
+  - https://github.com/lihaoyi/sourcecode
+  - https://github.com/outr/scribe
+  
+### I18n
+  - https://github.com/xitrum-framework/scala-xgettext
+  - https://github.com/xitrum-framework/scaposer
   
 ### Programming Languages
   - https://github.com/Mononofu/Scalisp
@@ -17,6 +35,7 @@ A curated list of awesome and *interesting* Scala libraries. Biased and subjecti
   - https://github.com/sonoisa/Prolog-in-Scala
   - https://github.com/ermine-language/ermine-scala-core
   - https://github.com/rcano/sps - Scala's syntax expressed in Parboiled2 syntax
+  - https://github.com/ilya-klyuchnikov/ttlite
 
 ### Databases
   - https://github.com/beloglazov/couchdb-scala
@@ -54,6 +73,10 @@ A curated list of awesome and *interesting* Scala libraries. Biased and subjecti
   - https://github.com/xdotai/diff
   - https://github.com/backuity/matchete
   - https://github.com/dabreegster/scala-object-explorer
+  - https://github.com/lihaoyi/pprint
+
+### Random data generation
+  - https://github.com/NICTA/rng
 
 ### Parsing
   * https://github.com/Eliah-Lakhin/papa-carlo
@@ -61,6 +84,9 @@ A curated list of awesome and *interesting* Scala libraries. Biased and subjecti
   * https://github.com/nuttycom/xenomorph
   * https://github.com/rcoh/toyregex
   * https://github.com/djspiewak/scala-bison
+  * https://github.com/djspiewak/gll-combinators
+  * https://github.com/Imaginatio/REL
+  * https://github.com/djspiewak/derivative-combinators (https://github.com/djspiewak/parseback)
 
 ### Data transformation
   * https://github.com/knutwalker/transducers-scala
@@ -104,6 +130,7 @@ A curated list of awesome and *interesting* Scala libraries. Biased and subjecti
   * https://github.com/Chymyst/curryhoward
   * https://github.com/johnynek/inliner
   * https://github.com/nativelibs4java/scalaxy-streams
+  * https://github.com/tysonjh/fixme
 
 ### Machine learning
   * https://github.com/danielkorzekwa/bayes-scala
@@ -147,3 +174,6 @@ A curated list of awesome and *interesting* Scala libraries. Biased and subjecti
 
 ### Financial
   * https://github.com/channingwalton/scala-contracts
+  
+### Packaging
+  * https://github.com/sbt/sbt-onejar
