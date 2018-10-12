@@ -63,10 +63,11 @@ Other lists:
   - https://github.com/adamw/macwire
   
 ### Logging
-  - https://github.com/lancewalton/treelog
-  - https://github.com/JohnReedLOL/scala-trace-debug
   - https://github.com/lihaoyi/sourcecode
+  - https://github.com/lancewalton/treelog
+  - https://github.com/JohnReedLOL/pos
   - https://github.com/outr/scribe
+  - https://github.com/JohnReedLOL/scala-trace-debug
   
 ### I18n
   - https://github.com/xitrum-framework/scala-xgettext
